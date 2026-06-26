@@ -9,6 +9,13 @@
 
 ## 🚀 Projects
 
+### 👨‍💼 Employee Management System
+
+A role-based Employee Management System built with React featuring authentication, task assignment, dynamic dashboards, and a Kanban-style task board.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-E75480?style=for-the-badge&logo=vercel&logoColor=white)](https://employee-management-system-ruby-kappa.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-E6F4EA?style=for-the-badge&logo=github&logoColor=2E7D32)](https://github.com/deeflowdev/employee-management-system)
+
 ### 🐍 Snake Game  
 Browser-based game built using JavaScript and HTML5 Canvas, featuring real-time rendering, collision detection, and smooth game loop logic.  
 
