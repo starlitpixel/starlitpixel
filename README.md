@@ -1,61 +1,131 @@
-# 🌿 Hi, I’m Aiesha
-💻 Aspiring Full-Stack Developer  
+<div align="center">
 
-🌱 Building real-world web applications  
-🧩 Focused on clean code and problem-solving  
-📚 Currently learning React and backend development  
+```txt
+☾ ⋆｡𖦹°✩°𖦹｡⋆ ☾
+```
 
----
+## a little corner of the internet where i build things
 
-## 🚀 Projects
+```txt
+building • experimenting • occasionally debugging at 2am
+```
 
-### 👨‍💼 Employee Management System
+✦ creating things for the web  
+✦ turning ideas into interfaces  
+✦ collecting projects, one commit at a time
 
-A role-based Employee Management System built with React featuring authentication, task assignment, dynamic dashboards, and a Kanban-style task board.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-E75480?style=for-the-badge&logo=vercel&logoColor=white)](https://employee-management-system-ruby-kappa.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-E6F4EA?style=for-the-badge&logo=github&logoColor=2E7D32)](https://github.com/deeflowdev/employee-management-system)
-
-### 🐍 Snake Game  
-Browser-based game built using JavaScript and HTML5 Canvas, featuring real-time rendering, collision detection, and smooth game loop logic.  
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-E75480?style=for-the-badge&logo=vercel&logoColor=white)](https://deeflowdev.github.io/snake-game/)
-[![Code](https://img.shields.io/badge/Code-E6F4EA?style=for-the-badge&logo=github&logoColor=2E7D32)](https://github.com/deeflowdev/snake-game)
+</div>
 
 ---
 
-## 💻 Tech Stack
+<div align="center">
+
+```txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+a small archive of projects, experiments,
+and lessons collected along the way ✦
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+## ✦ little things you'll find here
+
+⌘ web applications and experiments  
+⌘ side projects and tiny ideas  
+⌘ interfaces that are both useful and pretty  
+⌘ code written out of curiosity
+
+---
+
+## ☾ featured projects
+
+### 👨‍💼 employee management system
+
+> role-based dashboard with authentication, task assignment, and kanban boards.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python" />
+<a href="https://employee-management-system-ruby-kappa.vercel.app">
+<img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deeflowdev/employee-management-system">
+<img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
+</a>
 </p>
 
 ---
 
-## 🌐 Connect
+### 🐍 snake game
+
+> browser-based game built with javascript and html5 canvas.
 
 <p>
-  <a href="https://linkedin.com/in/aiesha-ganguly">
-    <img src="https://img.shields.io/badge/LinkedIn-E75480?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://deeflowdev.github.io/snake-game">
+<img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/deeflowdev/snake-game">
+<img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ✿ tech stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=deeflowdev&show_icons=true&theme=tokyonight&hide_border=false&border_color=F8A5C2&title_color=F78FB3&icon_color=F78FB3&text_color=c9c9c9" />
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-<img src="https://streak-stats.demolab.com?user=deeflowdev&theme=tokyonight&hide_border=false&ring=F78FB3&fire=F78FB3&currStreakLabel=F78FB3&sideLabels=c9c9c9&dates=c9c9c9&border=F8A5C2" />
+<br><br>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,git,github,vscode,figma" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeflowdev&layout=compact&theme=tokyonight&hide_border=false&border_color=F8A5C2&title_color=F78FB3&text_color=c9c9c9" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FADADD&height=100&section=footer"/>
-</p>
+## ☁︎ github activity
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deeflowdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deeflowdev&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=deeflowdev&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
+
+</div>
+
+---
+
+## ✧ connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/aiesha-ganguly">
+  <img src="https://img.shields.io/badge/linkedin-f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/user/ws3sth8h1h0tavj6iisuh455v?si=69145e3be27e4c6b">
+  <img src="https://img.shields.io/badge/spotify-f7a8c4?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
+build things that are useful.
+make them beautiful.
+leave the internet a little prettier than you found it.
+```
+
+✦ ── ⋆⋅☆⋅⋆ ── ✦
+
+</div>
