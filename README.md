@@ -1,46 +1,33 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F8C8DC" width="100%" />
+</p>
+
+# ☁︎ hey, i'm aiesha
+
 <div align="center">
 
-```txt
-☾ ⋆｡𖦹°✩°𖦹｡⋆ ☾
-```
+a curious developer who spends her days building for the web and her nights wondering if one more feature is really necessary.
+some projects turn into lessons, some into favourite memories, and some into bugs that somehow only appear at 2am.
 
-## a little corner of the internet where i build things
-
-```txt
-building • experimenting • occasionally debugging at 2am
-```
-
-✦ creating things for the web  
-✦ turning ideas into interfaces  
-✦ collecting projects, one commit at a time
+✦ welcome to my little collection of all three ✦
 
 </div>
 
 ---
 
-<div align="center">
+## ☾ about me
 
-```txt
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-a small archive of projects, experiments,
-and lessons collected along the way ✦
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+i enjoy building things for the web and exploring new technologies through projects.
 
-</div>
-
-## ✦ little things you'll find here
-
-⌘ web applications and experiments  
-⌘ side projects and tiny ideas  
-⌘ interfaces that are both useful and pretty  
-⌘ code written out of curiosity
+⌘ interested in frontend development and thoughtful ui  
+⌘ currently learning more about backend development and dsa  
+⌘ always building, experimenting, and improving
 
 ---
 
 ## ☾ featured projects
 
-### 👨‍💼 employee management system
+### 💼 employee management system
 
 > role-based dashboard with authentication, task assignment, and kanban boards.
 
@@ -56,7 +43,7 @@ and lessons collected along the way ✦
 
 ---
 
-### 🐍 snake game
+### 🕹️ snake game
 
 > browser-based game built with javascript and html5 canvas.
 
@@ -107,25 +94,20 @@ and lessons collected along the way ✦
 <div align="center">
 
 <a href="https://linkedin.com/in/aiesha-ganguly">
-  <img src="https://img.shields.io/badge/linkedin-f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-f7a8c4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://open.spotify.com/user/ws3sth8h1h0tavj6iisuh455v?si=69145e3be27e4c6b">
-  <img src="https://img.shields.io/badge/spotify-f7a8c4?style=for-the-badge&logo=spotify&logoColor=white"/>
+<a href="https://open.spotify.com/user/ws3sth8h1h0tavj6iisuh455v">
+<img src="https://img.shields.io/badge/spotify-f7a8c4?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
 </div>
 
 ---
-
 <div align="center">
 
-```txt
-build things that are useful.
-make them beautiful.
-leave the internet a little prettier than you found it.
-```
-
 ✦ ── ⋆⋅☆⋅⋆ ── ✦
+
+built with curiosity, creativity & countless cups of coffee </>
 
 </div>
