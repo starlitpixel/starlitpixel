@@ -9,7 +9,7 @@
 a curious developer who spends her days building for the web and her nights wondering if one more feature is really necessary.
 some projects turn into lessons, some into favourite memories, and some into bugs that somehow only appear at 2am.
 
-✦ welcome to my little collection of all three ✦
+<h3>✦ welcome to my little collection of all three ✦</h3>
 
 </div>
 
