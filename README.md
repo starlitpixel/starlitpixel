@@ -83,7 +83,7 @@ i enjoy building things for the web and exploring new technologies through proje
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=starlitpixel&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
+<img src="https://streak-stats.demolab.com?user=starlitpixel&theme=tokyonight&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
 
 </div>
 
