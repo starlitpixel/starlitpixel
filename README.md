@@ -36,7 +36,7 @@ i enjoy building things for the web and exploring new technologies through proje
 <img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/deeflowdev/employee-management-system">
+<a href="https://github.com/starlitpixel/employee-management-system">
 <img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
 </a>
 </p>
@@ -48,11 +48,11 @@ i enjoy building things for the web and exploring new technologies through proje
 > browser-based game built with javascript and html5 canvas.
 
 <p>
-<a href="https://deeflowdev.github.io/snake-game">
+<a href="https://starlitpixel.github.io/snake-game">
 <img src="https://img.shields.io/badge/live_demo-f7a8c4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/deeflowdev/snake-game">
+<a href="https://github.com/starlitpixel/snake-game">
 <img src="https://img.shields.io/badge/source_code-ffe4ec?style=for-the-badge&logo=github&logoColor=6d4c5b"/>
 </a>
 </p>
@@ -77,13 +77,13 @@ i enjoy building things for the web and exploring new technologies through proje
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deeflowdev&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=starlitpixel&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7A8C4&icon_color=F7A8C4&text_color=D6B3C0"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deeflowdev&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starlitpixel&layout=compact&theme=tokyonight&hide_border=true&title_color=F7A8C4&text_color=D6B3C0"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=deeflowdev&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
+<img src="https://streak-stats.demolab.com?user=starlitpixel&background=00000000&border=FADADD&ring=F8A5C2&fire=F8A5C2&currStreakLabel=F8A5C2&sideNums=F8A5C2&sideLabels=C89AA9&dates=C89AA9"/>
 
 </div>
 
